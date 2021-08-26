@@ -25,7 +25,7 @@ const routes = [
   },
   {
     path: "/edit-post/:id",
-    name: "edit",
+    name: "edit-post",
     component: EditPost,
   },
   {
